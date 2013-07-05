@@ -14,8 +14,9 @@
     </author>
 
     <gap:plugin name="BarcodeScanner"/>
-    <gap:plugin name="ChildBrowser" version="4.0.0" />
+   
     <!--
+     <gap:plugin name="ChildBrowser" version="4.0.0" />
     <gap:plugin name="ChildBrowser"/>
     <gap:plugin name="GAPlugin"/>
     <gap:plugin name="GenericPush"/>
